@@ -1,4 +1,4 @@
-# HCSR04-VLC
+# HCSR04-VLC-HUMAN-DETECTION
 
 This repository contains a Python project (for Raspberry) that uses an HCSR04 sensor to **detect the presence of a person** in front of a fixed background (e.g. wall or floor) and dynamically **plays or pauses a video accordingly**.
 
