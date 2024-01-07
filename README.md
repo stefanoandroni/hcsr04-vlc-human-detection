@@ -9,8 +9,8 @@ This repository contains a Python project (for Raspberry) that uses an HCSR04 se
 /src
 	/main.py			main code
 	/hcsr04.py			hcsr04 sensor class (HCSR04)
-	/media_player.py	media player class (MediaPlayer)
-requirements.txt		dependencies
+	/media_player.py		media player class (MediaPlayer)
+requirements.txt			dependencies
 ```
 
 
